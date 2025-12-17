@@ -1,0 +1,3 @@
+Welcome to the second text file!
+This file also contains some example text.
+Feel free to modify or add more content.

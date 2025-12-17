@@ -1,0 +1,3 @@
+Hello! This is the first text file.
+It contains some sample text to demonstrate file creation.
+You can edit this content as needed.
